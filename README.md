@@ -49,8 +49,6 @@ This is my personal "fuck around and find out" journey into RL-based algorithmic
 **The Reality:**
 RL learns to be *safe* but not *optimal*. Drawdown penalty works too well - agents prefer holding cash over taking calculated risks. It's a feature and a bug simultaneously.
 
-## Quick Start
-```bash
 
 ## Try it out
 
